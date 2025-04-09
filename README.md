@@ -1,5 +1,5 @@
 # Github api integration
-  This project is used to check the list of users that has accessed to any github repository by integrating the github api.
+  This project is used to check the list of users that has accessed to any github repository by integrating with github api.
 ## Usage
 1. Clone the github repository to your local machine
      ```
